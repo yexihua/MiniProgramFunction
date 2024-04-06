@@ -1,0 +1,1 @@
+<button wx:for="{{a}}" wx:for-item="i" wx:key="b" bindtap="{{i.c}}">{{i.a}}</button>

@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "up-input": "../../node-modules/uview-plus/components/u-input/u-input",
+    "up-button": "../../node-modules/uview-plus/components/u-button/u-button",
+    "u-collapse-item": "../../node-modules/uview-plus/components/u-collapse-item/u-collapse-item",
+    "u-collapse": "../../node-modules/uview-plus/components/u-collapse/u-collapse"
+  }
+}
